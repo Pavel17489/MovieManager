@@ -38,6 +38,5 @@ public class MovieManager {
             tmp[i] = movies[movies.length - 1 - i];
         }
         return tmp;
-
     }
 }
